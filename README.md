@@ -3,7 +3,7 @@ This repo contains my experiments to see how Neural Networks can approximate any
 
 ---
 ## Approximating Sine function 
-![Sine fn](https://github.com/imraunav/Universal-function-approximators/images/sine.png)
+![https://github.com/imraunav/Universal-function-approximators/images/sine.png](https://github.com/imraunav/Universal-function-approximators/blob/main/images/sine.png)
 
 ## Approximating XOR function
-![XOR](https://github.com/imraunav/Universal-function-approximators/images/xor2.png)
+![https://github.com/imraunav/Universal-function-approximators/images/xor2.png](https://github.com/imraunav/Universal-function-approximators/blob/main/images/xor2.png)
