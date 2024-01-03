@@ -3,8 +3,8 @@ This repo contains my experiments to see how Neural Networks can approximate any
 
 ---
 ## Approximating Sine function 
-![sine.png](sine.png)
+![images/sine.png](images/sine.png)
 
 ## Approximating XOR function
-![xor2.png](xor2.png)
-![simple_animation (3).gif](simple_animation (3).gif)
+![images/xor2.png](images/xor2.png)
+![images/simple_animation (3).gif](images/simple_animation (3).gif)
