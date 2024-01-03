@@ -7,5 +7,3 @@ This repo contains my experiments to see how Neural Networks can approximate any
 
 ## Approximating XOR function
 ![images/xor2.png](images/xor2.png)
-
-![images/xor_nn_animation.gif](images/xor_nn_animation.gif)
