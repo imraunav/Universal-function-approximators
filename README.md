@@ -8,3 +8,7 @@ This repo contains my experiments to see how Neural Networks can approximate any
 ## Approximating XOR function
 ![images/xor2.png](images/xor2.png)
 ![XOR Animation](images/xor_nn_animation.gif)
+
+
+This is first change made by Sandhya.
+
